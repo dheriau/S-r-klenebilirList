@@ -1,2 +1,2 @@
-# S-r-klenebilirList
+# SuruklenebilirList
 List
